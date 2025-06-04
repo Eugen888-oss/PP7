@@ -134,6 +134,8 @@ In this exercise you will:
 
 ---
 
+Finish this Position
+ 
 ### Task 3: Modular Linking with `extern`
 
 **Objective:** Create a separate addition function in `add.c`, declare it `extern` in `main.c`, and compile/link manually to form an executable.
