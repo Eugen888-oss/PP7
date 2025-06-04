@@ -1,0 +1,5 @@
+cp = zum Kopieren
+grep = zum suchen
+sed = zum ersetzen
+awk = zur Mustersuche
+vim = für interaktive Bearbeitung
